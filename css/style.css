@@ -1,0 +1,140 @@
+@font-face{
+	src:url(../fonts/rufina/Rufina-Regular.ttf);
+	font-family:Rufina-Regular ;
+}
+@font-face{
+	src:url(../fonts/rufina/Rufina-Bold.ttf);
+	font-family:Rufina-Bold ;
+}
+@font-face{
+	src:url(../fonts/roboto/Roboto-Regular.ttf);
+	font-family:Roboto-Regular ;
+}
+@font-face{
+	src:url(../fonts/roboto/Roboto-Medium.ttf);
+	font-family:Roboto-Medium ;
+}
+@font-face{
+	src:url(../fonts/roboto/Roboto-Light.ttf);
+	font-family:Roboto-Light ;
+}
+/*header start*/
+
+.h_con_fld{
+	width: 70%;
+}
+.c_brand{
+	padding-top: 1.3rem;
+}
+.l_top{
+	text-align: center;
+}
+.menu{
+	margin-top: 50px;
+}
+.menu ul li a{
+	padding: 0 15px !important;
+}
+/*slider start*/
+.c_p_0{
+	padding: 0;
+}
+
+.c_c_p{
+    text-align: left;
+    bottom: 50%;
+    width: 38%;
+}
+
+.h_p_1{
+	font-family: 'Rufina-Regular', sans-serif;
+	color: #FF817E;
+	font-size: 15px;
+	text-transform: uppercase;
+}
+.c_c_p h1{
+	font-family: 'Rufina-Bold', sans-serif;
+	color:#1E2528;
+	font-size: 60px;
+	margin: 45px 0;
+}
+.h_p_2{
+	font-family: 'Roboto-Regular', sans-serif;
+	color:#7B7B7B;
+	font-size: 15px;
+	margin-bottom: 55px;
+}
+.c_c_p button{
+	font-family: 'Roboto-Medium', sans-serif;
+	font-size: 13px;
+	width: 170px;
+    height: 50px;
+    color: #ffffff;
+    text-transform: uppercase;
+    background-color: #FF817E;
+    border: none;
+}
+.play_button_1{
+	padding-left: 10px;
+    color: #ffffff !important;
+    
+}
+.play_button{
+	margin-left:  35px;
+    color: pink !important;
+    font-size: 25px;
+}
+/*slider end*/
+/*about start*/
+.ab_header{
+	    width: 70%;
+	    margin-left: 184px;
+}
+.ab_logo{
+	display: inline-block;
+	padding-bottom: 30px;
+}
+.ab_h5{
+	font-family: 'Roboto-Regular', sans-serif;
+	font-size: 20px;
+    color: #7B7B7B;
+}
+.ab_h3{
+	font-family: 'Rufina-Bold', sans-serif;
+	font-size: 42px;
+    color: #1E2528;
+    padding: 30px 0;
+}
+.ab_p{
+	font-family: 'Roboto-Light', sans-serif;
+	font-size: 15px;
+    color: #7B7B7B;
+}
+.ab_button{
+	font-family: 'Roboto-Medium', sans-serif;
+	width: 165px;
+    height: 50px;
+    border-radius: 50px;
+    font-size: 13px;
+    color: #ffffff;
+    background-color: #FF817E;
+    margin: 50px 0 100px;
+    border: none;
+}
+/*about end*/
+.ftr_logo{
+	display: inline-block;
+	padding-bottom: 8px;
+}
+.ftr_menu{}
+.ftr_menu ul li a{
+	font-family: 'Roboto-Medium', sans-serif;
+	font-size: 16px;
+	color: #1E2528;
+}
+.ftr_p{
+	font-family: 'Roboto-Regular', sans-serif;
+	font-size: 16px;
+    color: #7B7B7B;
+    text-transform: uppercase;
+}
